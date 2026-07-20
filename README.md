@@ -1,6 +1,6 @@
 # About Project
 
-# Django URL Shortener
+# URL Shortener
 
 A simple and practical URL Shortener web application built with **Django** and **PostgreSQL**.
 
