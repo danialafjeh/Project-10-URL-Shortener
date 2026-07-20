@@ -25,10 +25,10 @@ The application allows users to submit a long URL and instantly receive a shorte
 
 - Python
 - Django
+- Django ModelForms
 - PostgreSQL
 - HTML
 - CSS
-- Django ModelForms
 
 ---
 
