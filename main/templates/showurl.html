@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+    <h1>Your link is ready :</h1>
+    <h3>{{ short_url }}</h3>
+    <br>
+    <p>Created at {{ date }}</p>
+    <br>
+    <hr>
+    <br>
+    <a href="{% url 'home_url' %}" class="btn btn-primary">Return</a>
+</div>
+{% endblock %}
